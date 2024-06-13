@@ -2,7 +2,7 @@
 Bazoka Plus is a restaurant management system that provides comprehensive functionality for managing users, categories, food items, orders, and restaurants. The system includes secure authentication and authorization, along with various security measures to protect user data.
 
 ## Features
-- User Management: Register, login, and manage users.
+- User Management: Register, login, reset and update password and manage users.
 - Category Management: CRUD operations for categories.
 - Food Management: CRUD operations for food items, upload food photos, get food by restaurant, and get food by category.
 - Order Management: Place orders, update order status, and manage orders.
